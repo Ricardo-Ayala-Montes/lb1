@@ -17,3 +17,4 @@ Por favor incluye una descripción clara y concisa de los cambios que has hecho.
 - [ ] Cualquier cambio dependiente ha sido fusionado y publicado en módulos posteriores
 - [ ] Mis cambios afecta funcionalidad de otro desarrollo
 - [ ] Mi pullrequest contiene coverage
+- [ ] Mis cambios pasan el total de test unitarias
