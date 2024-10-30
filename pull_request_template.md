@@ -15,3 +15,5 @@ Por favor incluye una descripción clara y concisa de los cambios que has hecho.
 - [ ] He añadido pruebas que prueban que mi fix es efectivo o que mi característica funciona
 - [ ] Nuevas y existentes pruebas de unidad pasan localmente con mis cambios
 - [ ] Cualquier cambio dependiente ha sido fusionado y publicado en módulos posteriores
+- [ ] Mis cambios afecta funcionalidad de otro desarrollo
+- [ ] Mi pullrequest contiene coverage
